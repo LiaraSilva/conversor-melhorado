@@ -3,5 +3,9 @@ const apiURL = `https://v6.exchangerate-api.com/v6/${apiKey}/latest/`;
 
 // Função para buscar taxa de câmbio via API
 async function getExchangeRate(daMoeda, paraMoeda){
-    
+    try{
+        const response = await fetch(`${apiURL}${daMoeda}`);
+    }catch{
+
+    }
 } 

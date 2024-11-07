@@ -26,3 +26,13 @@ O código utiliza a API Exchangerate-API para obter as taxas de câmbio entre di
 * Ao enviar o formulário, o JavaScript faz uma requisição para a API de câmbio, buscando a taxa de câmbio atualizada entre as moedas escolhidas.
 * A taxa de câmbio é utilizada para calcular o valor convertido, que é então exibido ao usuário.
 
+## Como Usar
+* Clone ou baixe este repositório em sua máquina local.
+* Abra o arquivo index.html em um navegador.
+* Preencha o valor a ser convertido, selecione as moedas de origem e destino e clique em "Converter".
+* O valor convertido será exibido na tela.
+
+## Pré-requisitos
+Não é necessário instalar nenhum pacote ou biblioteca adicional para usar este projeto. Certifique-se de ter um navegador moderno que suporte JavaScript.
+
+## Exemplo de Requisição para a API

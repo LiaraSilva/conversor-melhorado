@@ -42,3 +42,9 @@ Não é necessário instalar nenhum pacote ou biblioteca adicional para usar est
 ## Estrutura do Projeto
 
 <img src="q.png">
+
+## Como Adicionar a Sua Própria Chave de API
+* Vá até o site da Exchangerate-API e crie uma conta.
+* Após o cadastro, você receberá uma chave de API. Substitua a chave de API no código no arquivo script.js pela sua própria chave.
+
+<img src="d.png">

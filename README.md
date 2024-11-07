@@ -38,3 +38,7 @@ Não é necessário instalar nenhum pacote ou biblioteca adicional para usar est
 ## Exemplo de Requisição para a API
 
 <img src="a.png">
+
+## Estrutura do Projeto
+
+<img src="q.png">

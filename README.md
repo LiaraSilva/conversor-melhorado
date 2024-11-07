@@ -36,3 +36,5 @@ O código utiliza a API Exchangerate-API para obter as taxas de câmbio entre di
 Não é necessário instalar nenhum pacote ou biblioteca adicional para usar este projeto. Certifique-se de ter um navegador moderno que suporte JavaScript.
 
 ## Exemplo de Requisição para a API
+
+<img src="a.png">

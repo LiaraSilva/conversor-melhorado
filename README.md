@@ -32,19 +32,4 @@ O código utiliza a API Exchangerate-API para obter as taxas de câmbio entre di
 * Preencha o valor a ser convertido, selecione as moedas de origem e destino e clique em "Converter".
 * O valor convertido será exibido na tela.
 
-## Pré-requisitos
-Não é necessário instalar nenhum pacote ou biblioteca adicional para usar este projeto. Certifique-se de ter um navegador moderno que suporte JavaScript.
-
-## Exemplo de Requisição para a API
-
-<img src="a.png">
-
-## Estrutura do Projeto
-
-<img src="q.png">
-
-## Como Adicionar a Sua Própria Chave de API
-* Vá até o site da Exchangerate-API e crie uma conta.
-* Após o cadastro, você receberá uma chave de API. Substitua a chave de API no código no arquivo script.js pela sua própria chave.
-
-<img src="d.png">
+## Resultado:

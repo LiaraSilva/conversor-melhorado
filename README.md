@@ -32,4 +32,5 @@ O código utiliza a API Exchangerate-API para obter as taxas de câmbio entre di
 * Preencha o valor a ser convertido, selecione as moedas de origem e destino e clique em "Converter".
 * O valor convertido será exibido na tela.
 
-## Resultado:
+## Autores 📍
+[Liara Silva](https://github.com/LiaraSilva?tab=repositories)
